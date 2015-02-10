@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Anthropocene"
+      name = "Anthropocene">
+      <FileRef
+         location = "group:NSDateComponents+Anthropocene.h">
+      </FileRef>
+      <FileRef
+         location = "group:NSDateComponents+Anthropocene.m">
+      </FileRef>
+      <FileRef
+         location = "group:NSString+FullRange.h">
+      </FileRef>
+      <FileRef
+         location = "group:NSString+FullRange.m">
+      </FileRef>
+      <FileRef
+         location = "group:Constants.h">
+      </FileRef>
+      <FileRef
+         location = "group:Constants.m">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "container:Anthropocene Example/Anthropocene Example.xcodeproj">
+   </FileRef>
+</Workspace>
