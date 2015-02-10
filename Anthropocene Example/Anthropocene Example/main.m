@@ -11,6 +11,7 @@
 
 int main(int argc, const char *argv[]) {
     @autoreleasepool {
+        NSLog(@"Components: %@", [NSDateComponents componentsFromHumanReadableString:@"64 years, 32 months, 16 days, 8 hours, 4 minutes, 2 seconds, 1 nanosecond"]);
         NSLog(@"Components: %@", [NSDateComponents componentsFromHumanReadableString:@"3day 9     years 4 seconds -5 minute 4 years 4 years -3seconds"]);
     }
     return 0;
